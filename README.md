@@ -1,0 +1,3 @@
+Tech enthusiast focused on coding excellence and software innovation.
+
+I am Challa Jhansi , currently pursuing my Bachelor’s degree in Computer Science and Engineering at Gokaraju Lailavathi Women's Engineering College. I am deeply passionate about coding and driven by a desire to explore and excel in various facets of technology. My enthusiasm for coding fuels my commitment to learning and mastering new programming languages and software development methodologies. I am proficient in C, Python, Java, and SQL, and I have a medium level of expertise in HTML. My academic journey has provided me with a solid foundation in computer science principles, and I constantly seek opportunities to apply my knowledge in practical, real-world scenarios.
